@@ -9,3 +9,9 @@ Build on any x86_64 system that supports the Nix package manager:
 ```$ nix build github:moontee/DE-demo#nixosConfigurations.iso.config.system.build.isoImage```
 
 The ISO will be in: ```./result/iso/nixos-*.iso```
+
+## Prebuilt ISO
+
+You can download the latest prebuilt ISO from SourceForge:
+
+**Download:** https://sourceforge.net/projects/de-demo/
